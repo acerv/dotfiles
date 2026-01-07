@@ -1,0 +1,8 @@
+profile laptop {
+	output eDP-1 enable
+}
+
+profile desk {
+	output eDP-1 disable
+	output "Samsung Electric Company U28E570 HNMR100178" enable scale 1.2
+}
